@@ -1,6 +1,6 @@
 ---
 name: Enhancement request
-about: Suggest a minor change to improve AM2R.
+about: Suggest a minor change to improve AM2Retro.
 title: ''
 labels: enhancement
 assignees: ''
