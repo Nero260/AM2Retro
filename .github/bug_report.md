@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Create a report to help us improve AM2R!
+about: Create a report to help us improve AM2Retro!
 title: ''
 labels: bug, requires confirmation
 assignees: ''
