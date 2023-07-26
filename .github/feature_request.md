@@ -1,6 +1,6 @@
 ---
 name: Feature request
-about: Suggest a new addition to improve AM2R.
+about: Suggest a new addition to improve AM2Retro.
 title: ''
 labels: feature
 assignees: ''
