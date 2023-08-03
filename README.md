@@ -23,3 +23,37 @@ Please read the [license](https://github.com/Nero260/AM2Retro/blob/main/LICENSE)
 Please read the [Contribution Guidelines](https://github.com/Nero260/AM2Retro/blob/main/CONTRIBUTING.md) before opening any issues or creating pull requests.
 
 Additionally, it would be most helpful if you joined the [Official AM2R Discord Server](https://discord.com/invite/HAeG8spkSu) if you plan on contributing to the project.
+
+# Known issues
+The vast majority of this source code is undocumented, as it is based on a bytecode reconstruction.
+
+The default language files will display three empty fields when loaded due to recent name changes. This will be a non-issue once 1.5.3 releases.
+
+Reordering assets created before the Community Updates began can have consequences throughout the entire project because of magic numbers: references to assets by numeric ID instead of name. Changing asset order will cause magic number references throughout the source code to begin referencing incorrect assets. Because of this, pull requests that attempt to reorganize assets will be denied.
+
+Much of this code is messy, uses unusual solutions, and does not hold to our established formatting style - this is a result of AM2R's reconstruction and nature as a learning project passed down to multiple lead developers.
+
+# Requirements
+[GameMaker: Studio 1.4.1763](https://store.yoyogames.com/downloads/gm-studio/GMStudio-Installer-1.4.1763.exe) - the IDE for editing and compiling this project.
+
+[GMXDataSync](https://raw.githubusercontent.com/YAL-GameMaker-Tools/GmxDataSync/master/Executable/GmxDataSync.exe) - a utility created by YellowAfterlife to populate project files with matching game assets.
+
+A copy of the latest release build of the AM2R Community Updates, which can be installed via the [AM2RLauncher](https://www.reddit.com/r/AM2R/comments/me73i2/am2rlauncher_20_release_now_with_linux_support/).
+
+[Pixelated Pope's Retro Palette Swapper](https://pixelatedpope.itch.io/retro-palette-swapper) - as said above, make absolutely sure you get the GameMaker: Studio 1.4 version! It's a .gmz file, not a .yyz file!
+
+[PixHammer's GameBoy Shader](https://pixhammer.itch.io/gameboy-shader)
+
+# Installation
+
+This repository, being based on YellowAfterlife's source reconstruction, is installed in a very similar fashion.
+
+1. Download everything from the requirements section above.
+2. Download and extract this repository somewhere.
+3. Go to where you have your AM2Rlauncher located, then into the Profiles folder, and after that the Community Updates (Latest). Place the data.win file from there into the project directory.
+https://cdn.discordapp.com/attachments/509717926807601182/841708939980570655/unknown.png
+4. Drag the data.win file onto the GmxDataSync executable. If everything is correct, this will populate the project with art/audio assets from the binary.
+https://cdn.discordapp.com/attachments/509717926807601182/841709919542706176/unknown.png
+5. Replace the two blank shader assets with default GM:S shader skeletons or your own copy of each shader, as well as the accompanying script files for the Retro Palette Swapper: pal_swap_init_system and pal_swap_set. WARNING: If the two above scripts are not replaced before opening the project file, GM:S 1.4 will replace them with <undefined> references in the asset tree at Scripts/Lojical/Shaders/. This will produce numerous seemingly unrelated errors until they are deleted and replaced with the appropriately named scripts.
+6. Finally, you will need to install modifiers.ini as well as the lang and mods folders as datafiles within the GM:S project. The default ones do not contain the actual assets and are merely references. These can be copied from your Community Updates (Latest) folder.
+7. [optional] Copy music files (.ogg) from game directory into "audio" directory inside the "sound" directory of the project (the game will still work without music, though).
