@@ -136,7 +136,7 @@ global.objdeactivate = 1;</code>
     <instance objName="oA4TileLight5" x="272" y="672" name="inst_127664" locked="0" code="" scaleX="-1" scaleY="-1" colour="4294967295" rotation="0"/>
     <instance objName="oA4TileLight5" x="304" y="32" name="inst_127667" locked="0" code="" scaleX="-1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="oBlockBomb" x="272" y="640" name="inst_127681" locked="0" code="&#xA;link_tile(tlArea4Tech, 80, 176);&#xA;" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="oBlockStep" x="32" y="144" name="inst_127682" locked="0" code="&#xA;link_tile(tlArea4Tech, 80, 160);&#xA;" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oBlockStep" x="32" y="144" name="inst_127682" locked="0" code="&#xA;link_tile(tlArea4Tech, 16, 48);&#xA;" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="oFadeTiles" x="32" y="0" name="inst_127683" locked="0" code="&#xA;areax = 16;&#xA;areay = 160;&#xA;" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="oFadeTiles" x="224" y="656" name="inst_127684" locked="0" code="&#xA;areax = 80;&#xA;areay = 80;&#xA;layer = -102;&#xA;" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="oA4TileLight5" x="-16" y="640" name="inst_44AB2C19" locked="0" code="" scaleX="1" scaleY="-1" colour="4294967295" rotation="0"/>

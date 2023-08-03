@@ -85,6 +85,71 @@ mus_change(musArea5);</code>
     <instance objName="oSolid1" x="96" y="96" name="inst_6B082DB5" locked="0" code="" scaleX="1" scaleY="2" colour="4294967295" rotation="0"/>
   </instances>
   <tiles>
+    <tile bgName="tlArea5MetalBG" x="112" y="160" w="16" h="16" xo="80" yo="112" id="10216896" name="inst_0BB66B87" depth="100" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="tlArea5MetalBG" x="96" y="192" w="16" h="16" xo="80" yo="112" id="10216897" name="inst_FE778AE4" depth="100" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="tlArea5MetalBG" x="64" y="176" w="16" h="16" xo="80" yo="112" id="10216898" name="inst_0D61BE1E" depth="100" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="tlArea5MetalBG" x="192" y="160" w="16" h="16" xo="80" yo="112" id="10216899" name="inst_C450A28E" depth="100" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="tlArea5MetalBG" x="208" y="176" w="16" h="16" xo="80" yo="112" id="10216900" name="inst_E8F04871" depth="100" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="tlArea5MetalBG" x="240" y="176" w="16" h="16" xo="80" yo="112" id="10216901" name="inst_0377FEDD" depth="100" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="tlArea5MetalBG" x="240" y="160" w="16" h="16" xo="64" yo="128" id="10216903" name="inst_7AF777A6" depth="100" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="tlArea5MetalBG" x="224" y="160" w="16" h="16" xo="64" yo="128" id="10216904" name="inst_E4AFEC3E" depth="100" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="tlArea5MetalBG" x="224" y="192" w="16" h="16" xo="64" yo="128" id="10216906" name="inst_999F5664" depth="100" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="tlArea5MetalBG" x="96" y="144" w="16" h="16" xo="64" yo="128" id="10216907" name="inst_698D57FB" depth="100" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="tlArea5MetalBG" x="128" y="128" w="16" h="16" xo="64" yo="128" id="10216908" name="inst_2CDE1A3D" depth="100" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="tlArea5MetalBG" x="112" y="144" w="16" h="16" xo="80" yo="128" id="10216909" name="inst_2864EDD7" depth="100" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="tlArea5MetalBG" x="112" y="192" w="16" h="16" xo="80" yo="128" id="10216910" name="inst_DD7116B1" depth="100" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="tlArea5MetalBG" x="112" y="176" w="16" h="16" xo="64" yo="112" id="10216911" name="inst_A7AFF2D7" depth="100" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="tlArea5MetalBG" x="80" y="192" w="16" h="16" xo="64" yo="128" id="10216913" name="inst_57EFD50E" depth="100" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="tlArea5MetalBG" x="64" y="192" w="16" h="16" xo="80" yo="128" id="10216914" name="inst_D338B219" depth="100" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="tlArea5MetalBG" x="64" y="160" w="16" h="16" xo="64" yo="128" id="10216915" name="inst_8942D63E" depth="100" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="tlArea5MetalBG" x="80" y="160" w="16" h="16" xo="64" yo="128" id="10216916" name="inst_458BE4DA" depth="100" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="tlArea5MetalBG" x="80" y="144" w="16" h="16" xo="64" yo="112" id="10216917" name="inst_96E320AF" depth="100" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="tlArea5MetalBG" x="64" y="144" w="16" h="16" xo="80" yo="128" id="10216918" name="inst_48E18CDF" depth="100" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="tlArea5MetalBG" x="64" y="128" w="16" h="16" xo="16" yo="112" id="10216919" name="inst_24B7F9BD" depth="100" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="tlArea5MetalBG" x="80" y="128" w="16" h="16" xo="80" yo="112" id="10216920" name="inst_8BF9F8D0" depth="100" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="tlArea5MetalBG" x="64" y="112" w="16" h="16" xo="48" yo="112" id="10216921" name="inst_0632E2D6" depth="100" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="tlArea5MetalBG" x="80" y="112" w="16" h="16" xo="16" yo="112" id="10216922" name="inst_F7AE2AD9" depth="100" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="tlArea5MetalBG" x="80" y="96" w="16" h="16" xo="48" yo="112" id="10216923" name="inst_004EBFB8" depth="100" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="tlArea5MetalBG" x="96" y="96" w="16" h="16" xo="16" yo="112" id="10216924" name="inst_017ACE04" depth="100" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="tlArea5MetalBG" x="64" y="96" w="16" h="16" xo="0" yo="128" id="10216925" name="inst_4C45F5DA" depth="100" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="tlArea5MetalBG" x="64" y="80" w="16" h="16" xo="64" yo="112" id="10216926" name="inst_8A5B5D5C" depth="100" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="tlArea5MetalBG" x="96" y="112" w="16" h="16" xo="80" yo="128" id="10216927" name="inst_EF362BF6" depth="100" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="tlArea5MetalBG" x="96" y="128" w="16" h="16" xo="80" yo="128" id="10216928" name="inst_25D34DF4" depth="100" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="tlArea5MetalBG" x="96" y="160" w="16" h="16" xo="80" yo="128" id="10216929" name="inst_29DC1B51" depth="100" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="tlArea5MetalBG" x="96" y="176" w="16" h="16" xo="64" yo="112" id="10216933" name="inst_62BB5AC8" depth="100" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="tlArea5MetalBG" x="80" y="176" w="16" h="16" xo="80" yo="128" id="10216935" name="inst_29D26702" depth="100" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="tlArea5MetalBG" x="80" y="80" w="16" h="16" xo="0" yo="128" id="10216936" name="inst_09E252DA" depth="100" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="tlArea5MetalBG" x="96" y="80" w="16" h="16" xo="32" yo="128" id="10216937" name="inst_2741BCE7" depth="100" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="tlArea5MetalBG" x="112" y="80" w="16" h="16" xo="16" yo="112" id="10216938" name="inst_64784019" depth="100" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="tlArea5MetalBG" x="112" y="96" w="16" h="16" xo="64" yo="128" id="10216939" name="inst_372D5969" depth="100" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="tlArea5MetalBG" x="112" y="112" w="16" h="16" xo="64" yo="112" id="10216940" name="inst_9C03C9D3" depth="100" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="tlArea5MetalBG" x="112" y="128" w="16" h="16" xo="64" yo="128" id="10216941" name="inst_592F7E37" depth="100" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="tlArea5MetalBG" x="240" y="96" w="16" h="16" xo="16" yo="128" id="10216942" name="inst_B81020D7" depth="100" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="tlArea5MetalBG" x="224" y="96" w="16" h="16" xo="32" yo="112" id="10216943" name="inst_A143333E" depth="100" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="tlArea5MetalBG" x="208" y="96" w="16" h="16" xo="0" yo="112" id="10216944" name="inst_2F7A64CA" depth="100" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="tlArea5MetalBG" x="208" y="112" w="16" h="16" xo="80" yo="112" id="10216945" name="inst_E4FCBAA7" depth="100" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="tlArea5MetalBG" x="224" y="128" w="16" h="16" xo="80" yo="112" id="10216946" name="inst_5E0D01B7" depth="100" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="tlArea5MetalBG" x="224" y="176" w="16" h="16" xo="80" yo="128" id="10216948" name="inst_C9460BCF" depth="100" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="tlArea5MetalBG" x="224" y="144" w="16" h="16" xo="80" yo="128" id="10216949" name="inst_8C20DC9B" depth="100" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="tlArea5MetalBG" x="224" y="112" w="16" h="16" xo="0" yo="112" id="10216950" name="inst_F8E067DB" depth="100" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="tlArea5MetalBG" x="240" y="112" w="16" h="16" xo="48" yo="128" id="10216952" name="inst_3E2D4D59" depth="100" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="tlArea5MetalBG" x="240" y="80" w="16" h="16" xo="64" yo="112" id="10216953" name="inst_1AEF116A" depth="100" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="tlArea5MetalBG" x="224" y="80" w="16" h="16" xo="16" yo="128" id="10216954" name="inst_3E4C88BC" depth="100" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="tlArea5MetalBG" x="208" y="80" w="16" h="16" xo="32" yo="112" id="10216955" name="inst_B4FAE3F5" depth="100" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="tlArea5MetalBG" x="192" y="80" w="16" h="16" xo="0" yo="112" id="10216956" name="inst_F5B5CA3A" depth="100" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="tlArea5MetalBG" x="192" y="96" w="16" h="16" xo="80" yo="128" id="10216957" name="inst_7EA262E1" depth="100" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="tlArea5MetalBG" x="192" y="128" w="16" h="16" xo="64" yo="112" id="10216958" name="inst_ED3CEB47" depth="100" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="tlArea5MetalBG" x="192" y="112" w="16" h="16" xo="64" yo="128" id="10216959" name="inst_B2A1F7AD" depth="100" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="tlArea5MetalBG" x="208" y="128" w="16" h="16" xo="64" yo="112" id="10216960" name="inst_44837E2D" depth="100" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="tlArea5MetalBG" x="208" y="144" w="16" h="16" xo="64" yo="128" id="10216961" name="inst_276139B3" depth="100" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="tlArea5MetalBG" x="192" y="144" w="16" h="16" xo="80" yo="128" id="10216962" name="inst_3311E128" depth="100" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="tlArea5MetalBG" x="192" y="192" w="16" h="16" xo="80" yo="128" id="10216963" name="inst_0A521C56" depth="100" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="tlArea5MetalBG" x="192" y="176" w="16" h="16" xo="64" yo="112" id="10216964" name="inst_EE73F1C7" depth="100" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="tlArea5MetalBG" x="208" y="192" w="16" h="16" xo="64" yo="112" id="10216965" name="inst_CB1F90DB" depth="100" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="tlArea5MetalBG" x="240" y="192" w="16" h="16" xo="64" yo="112" id="10216966" name="inst_7E6D2E80" depth="100" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="tlArea5MetalBG" x="208" y="160" w="16" h="16" xo="80" yo="128" id="10216967" name="inst_92EF7089" depth="100" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="tlArea5MetalBG" x="240" y="144" w="16" h="16" xo="80" yo="128" id="10216968" name="inst_68FD7A49" depth="100" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="tlArea5MetalBG" x="240" y="128" w="16" h="16" xo="0" yo="112" id="10216969" name="inst_F9B52A93" depth="100" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="tlArea5Metal" x="-32" y="224" w="32" h="16" xo="64" yo="0" id="10181527" name="inst_B716DCD1" depth="-100" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="tlArea5Metal" x="-48" y="224" w="16" h="16" xo="64" yo="16" id="10181528" name="inst_83508415" depth="-100" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="tlArea5Metal" x="-32" y="208" w="16" h="16" xo="64" yo="16" id="10181529" name="inst_04670A74" depth="-100" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>

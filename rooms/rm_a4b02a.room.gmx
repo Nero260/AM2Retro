@@ -164,7 +164,7 @@ make_escape_sequence_fx(2);</code>
     <instance objName="oGotoRoom" x="0" y="1056" name="inst_129008" locked="0" code="&#xA;targetroom = rm_a4b02b;&#xA;targetx = 624;&#xA;targety = 96;&#xA;height = 64;&#xA;direction = 180;&#xA;camstartx = 624;&#xA;camstarty = 96;&#xA;transitionx = 316;&#xA;transitiony = 96;&#xA;" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="oBlockShoot" x="64" y="1040" name="inst_129009" locked="0" code="&#xA;link_tile(tlArea4TechDestroyed, 32, 64);&#xA;regentime = -1;&#xA;" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="oFadeTiles" x="0" y="1040" name="inst_129010" locked="0" code="&#xA;areax = 80;&#xA;areay = 16;&#xA;layer = -102;&#xA;" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="oSolid1" x="0" y="144" name="inst_129013" locked="0" code="" scaleX="4" scaleY="12" colour="4294967295" rotation="0"/>
+    <instance objName="oSolid1" x="0" y="144" name="inst_129013" locked="0" code="&#xA;material = 4;&#xA;" scaleX="4" scaleY="12" colour="4294967295" rotation="0"/>
     <instance objName="oElderSeptogg" x="120" y="816" name="inst_A511D437" locked="0" code="if (oControl.mod_randomgamebool == 1)&#xA;{&#xA;    if (oControl.mod_septoggs_bombjumps_easy == 0 &amp;&amp; global.item[0] == 1) { xstart = -500; }&#xA;    else if (scr_septoggs_246()) { xstart = -500; }&#xA;}&#xA;else { xstart = -500; }&#xA;&#xA;&#xA;" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="oSolid4x1" x="-64" y="64" name="inst_47E271AE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="oSolid4x1" x="-64" y="144" name="inst_3B0D550E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -319,6 +319,8 @@ make_escape_sequence_fx(2);</code>
     <tile bgName="tlRock4B" x="-32" y="608" w="32" h="16" xo="16" yo="32" id="10169419" name="inst_3F06D1E3" depth="-100" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="tlRock4B" x="32" y="656" w="16" h="16" xo="48" yo="0" id="10185763" name="inst_8FDF9F5E" depth="-100" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="tlRock4B" x="-16" y="672" w="16" h="16" xo="16" yo="16" id="10185764" name="inst_DE922FDD" depth="-100" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="tlArea4Tech2" x="272" y="576" w="48" h="64" xo="96" yo="128" id="10216874" name="inst_05976713" depth="-100" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="tlArea4Tech2" x="272" y="816" w="48" h="64" xo="96" yo="128" id="10216875" name="inst_85B9A8E2" depth="-100" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="tlArea4TechDestroyed" x="48" y="144" w="16" h="16" xo="80" yo="64" id="10079095" name="tile_10079095" depth="-101" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="tlArea4TechDestroyed" x="48" y="320" w="16" h="16" xo="80" yo="80" id="10079096" name="tile_10079096" depth="-101" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="tlArea4TechDestroyed" x="48" y="64" w="16" h="16" xo="80" yo="80" id="10079097" name="tile_10079097" depth="-101" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
@@ -576,8 +578,6 @@ make_escape_sequence_fx(2);</code>
     <tile bgName="tlArea4TechDestroyed" x="48" y="1024" w="16" h="16" xo="64" yo="144" id="10079350" name="tile_10079350" depth="-101" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="tlArea4TechDestroyed" x="48" y="1008" w="16" h="16" xo="64" yo="128" id="10079351" name="tile_10079351" depth="-101" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="tlArea4Tech2" x="0" y="1088" w="48" h="64" xo="96" yo="64" id="10079352" name="tile_10079352" depth="-101" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="tlArea4Tech2" x="272" y="816" w="48" h="64" xo="96" yo="128" id="10079353" name="tile_10079353" depth="-101" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="tlArea4Tech2" x="272" y="576" w="48" h="64" xo="96" yo="128" id="10079354" name="tile_10079354" depth="-101" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="tlArea4TechDestroyed" x="256" y="784" w="16" h="16" xo="80" yo="128" id="10079355" name="tile_10079355" depth="-101" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="tlArea4TechDestroyed" x="272" y="784" w="16" h="16" xo="80" yo="160" id="10079356" name="tile_10079356" depth="-101" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="tlArea4TechDestroyed" x="288" y="784" w="16" h="16" xo="64" yo="128" id="10079357" name="tile_10079357" depth="-101" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>

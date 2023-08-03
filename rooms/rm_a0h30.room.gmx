@@ -489,7 +489,7 @@ with (oBlockSpeed) regentime = -1;</code>
     <instance objName="oBlockPBomb" x="672" y="624" name="inst_106083" locked="0" code="&#xA;regentime = -1;&#xA;" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="oBlockPBomb" x="672" y="640" name="inst_106084" locked="0" code="&#xA;regentime = -1;&#xA;" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="oBlockSMissile" x="816" y="384" name="inst_106085" locked="0" code="&#xA;link_tile(tlRock4A, 0, 16);&#xA;regentime = -1;&#xA;" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="oBlockSMissile" x="896" y="768" name="inst_106086" locked="0" code="&#xA;regentime = -1;&#xA;" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oBlockSMissile" x="896" y="768" name="inst_106086" locked="0" code="&#xA;link_tile(tlRock4A, 80, 32);&#xA;regentime = -1;&#xA;" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="oSolid1" x="912" y="768" name="inst_106087" locked="0" code="" scaleX="3" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="oSolid1" x="864" y="672" name="inst_106088" locked="0" code="" scaleX="2" scaleY="6" colour="4294967295" rotation="0"/>
     <instance objName="oSolid1" x="832" y="400" name="inst_106089" locked="0" code="" scaleX="2" scaleY="7" colour="4294967295" rotation="0"/>
@@ -736,7 +736,6 @@ with (oBlockSpeed) regentime = -1;</code>
     <tile bgName="tlRock4A" x="464" y="896" w="32" h="32" xo="96" yo="32" id="10018263" name="tile_10018263" depth="-100" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="tlRock4A" x="816" y="784" w="32" h="32" xo="96" yo="32" id="10018264" name="tile_10018264" depth="-100" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="tlRock4A" x="656" y="848" w="32" h="32" xo="96" yo="32" id="10018265" name="tile_10018265" depth="-100" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="tlRock4A" x="896" y="768" w="16" h="32" xo="80" yo="32" id="10018266" name="tile_10018266" depth="-100" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="tlRock4A" x="736" y="832" w="16" h="32" xo="80" yo="32" id="10018267" name="tile_10018267" depth="-100" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="tlRock4A" x="560" y="880" w="16" h="32" xo="80" yo="32" id="10018268" name="tile_10018268" depth="-100" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="tlRock4A" x="432" y="880" w="16" h="32" xo="80" yo="32" id="10018269" name="tile_10018269" depth="-100" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>

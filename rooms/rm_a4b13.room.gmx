@@ -28,7 +28,14 @@ if (global.event[203] &gt; 1) {
 if (global.event[203] &lt; 3) tile_layer_hide(-102);
 if (global.event[203] &lt; 4) tile_layer_hide(-103);
 if (global.event[203] &lt; 5) tile_layer_hide(-104);
-if (global.event[203] &lt; 6) tile_layer_hide(-105);</code>
+if (global.event[203] &lt; 6) tile_layer_hide(-105);
+
+
+// AM2Retro
+if (global.event[203] &gt; 1) {
+    instance_create(oSolid4x1, 320, 512);
+    with (inst_57E4A2F1) instance_destroy();
+}</code>
   <enableViews>-1</enableViews>
   <clearViewBackground>-1</clearViewBackground>
   <clearDisplayBuffer>0</clearDisplayBuffer>
