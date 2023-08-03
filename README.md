@@ -1,5 +1,5 @@
 # AM2R-Community-Updates
-Please do not request help until you have read this entire document. The vast majority of your questions should be answered within it, and we will be able to easily tell if you have not followed the installation instructions thoroughly.
+# Please do not request help until you have read this entire document. The vast majority of your questions should be answered within it, and we will be able to easily tell if you have not followed the installation instructions thoroughly.
 
 # What is this?
 The source code for the AM2R Community Updates 1.5.x branch, free of copyrighted assets and trademarks. If you have not played the AM2R Community Updates before, this will be of no use to you!
