@@ -14,7 +14,6 @@
 global.mapoffsety = 51;
 make_deep_water();
 global.floormaterial = 4;
-//with (oErisBossTrigger) visible = true; // debug related WHY YOU NOT SPAWN AFTER PICKUP!!!!
 with (oBlockStep) {
     delay = 30;
     regentime = 30;
