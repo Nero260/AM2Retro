@@ -1,8 +1,10 @@
-## AM2R-Community-Updates
-### Please do not request help until you have read this entire document. The vast majority of your questions should be answered within it, and we will be able to easily tell if you have not followed the installation instructions thoroughly.
+# AM2Retro
+
+AM2Retro is a cut content mod/unused/removed that never made it to the final game. **If you are looking for AM2R Community Updates then [follow the link here](https://github.com/AM2R-Community-Developers/AM2R-Community-Updates).**
 
 ## What is this?
-The source code for the AM2R Community Updates 1.5.x branch, free of copyrighted assets and trademarks. If you have not played the AM2R Community Updates before, this will be of no use to you!
+The source code for the AM2R Community Updates 1.5.x branch, free of copyrighted assets and trademarks. 
+If you have not played the AM2R Community Updates before, this will be of no use to you!
 
 This source code is based on [AM2Rrc](https://gitlab.com/yellowafterlife/AM2Rrc) by YellowAfterlife. It could be considered a fork.
 
@@ -46,15 +48,14 @@ A copy of the latest release build of the AM2R Community Updates, which can be i
 [PixHammer's GameBoy Shader](https://pixhammer.itch.io/gameboy-shader)
 
 ## Installation
-
 This repository, being based on YellowAfterlife's source reconstruction, is installed in a very similar fashion.
 
 1. Download everything from the requirements section above.
 2. Download and extract [this repository](https://github.com/Nero260/AM2Retro/archive/refs/heads/main.zip) somewhere.
-3. Go to where you have your AM2Rlauncher located, then into the Profiles folder, and after that the Community Updates (Latest). Place the data.win file from there into the project directory.
+3. Go to where you have your AM2Rlauncher located, then into the `Profiles` folder, and after that the `Community Updates (Latest)`. Place the `data.win` file from there into the project directory.
 ![unknown](https://cdn.discordapp.com/attachments/509717926807601182/841708939980570655/unknown.png)
-4. Drag the data.win file onto the GmxDataSync executable. If everything is correct, this will populate the project with art/audio assets from the binary.
+4. Drag the `data.win` file onto the GmxDataSync executable. If everything is correct, this will populate the project with art/audio assets from the binary.
 ![unknown](https://cdn.discordapp.com/attachments/509717926807601182/841709919542706176/unknown.png)
-5. Replace the two blank shader assets with default GM:S shader skeletons or your own copy of each shader, as well as the accompanying script files for the Retro Palette Swapper: pal_swap_init_system and pal_swap_set. WARNING: If the two above scripts are not replaced before opening the project file, GM:S 1.4 will replace them with <undefined> references in the asset tree at Scripts/Lojical/Shaders/. This will produce numerous seemingly unrelated errors until they are deleted and replaced with the appropriately named scripts.
-6. Finally, you will need to install modifiers.ini as well as the lang and mods folders as datafiles within the GM:S project. The default ones do not contain the actual assets and are merely references. These can be copied from your Community Updates (Latest) folder.
+5. Replace the two blank shader assets with default GM:S shader skeletons or your own copy of each shader, as well as the accompanying script files for the Retro Palette Swapper: `pal_swap_init_system` and `pal_swap_set`. **WARNING**: If the two above scripts are not replaced before opening the project file, GM:S 1.4 will replace them with `<undefined>` references in the asset tree at `Scripts/Lojical/Shaders/`. This will produce numerous seemingly unrelated errors until they are deleted and replaced with the appropriately named scripts.
+6. Finally, you will need to install `modifiers.ini` as well as the `lang` and `mods` folders as datafiles within the GM:S project. The default ones do not contain the actual assets and are merely references. These can be copied from your `Community Updates (Latest)` folder.
 7. [optional] Copy music files (.ogg) from game directory into "audio" directory inside the "sound" directory of the project (the game will still work without music, though).
