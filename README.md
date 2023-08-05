@@ -1,6 +1,6 @@
 # AM2Retro
 
-AM2Retro is a cut content mod/unused/removed that never made it to the final game. **If you are looking for AM2R Community Updates then [follow the link here](https://github.com/AM2R-Community-Developers/AM2R-Community-Updates).**
+A reinvented version of AM2R with removed/cut content in the final game. **If you are looking for AM2R Community Updates then [follow the link here](https://github.com/AM2R-Community-Developers/AM2R-Community-Updates).**
 
 ## What is this?
 The source code for the AM2R Community Updates 1.5.x branch, free of copyrighted assets and trademarks. 
