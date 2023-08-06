@@ -2,6 +2,8 @@
 
 A reinvented version of AM2R with removed/cut content in the final game. **If you are looking for AM2R Community Updates then [follow the link here](https://github.com/AM2R-Community-Developers/AM2R-Community-Updates).**
 
+# Basically, the original readme from AM2R Community Updates.
+
 ## What is this?
 The source code for the AM2R Community Updates 1.5.x branch, free of copyrighted assets and trademarks. 
 If you have not played the AM2R Community Updates before, this will be of no use to you!
