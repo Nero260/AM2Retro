@@ -82,7 +82,7 @@ mus_change(musItemAmb);
     <instance objName="oSolid1" x="416" y="176" name="inst_145420" locked="0" code="" scaleX="2" scaleY="2" colour="4294967295" rotation="0"/>
     <instance objName="oDoor" x="24" y="112" name="inst_145421" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="oWarpPipeTrigger" x="480" y="112" name="inst_145422" locked="0" code="&#xA;targetroom = rm_a2a19;&#xA;targetx = 152;&#xA;targety = 128;&#xA;direction = 0;&#xA;" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="oGotoRoom" x="0" y="176" name="inst_145423" locked="0" code="&#xA;targetroom = rm_a7b01;&#xA;targetx = 304;&#xA;targety = 416;&#xA;height = 64;&#xA;direction = 180;&#xA;camstartx = 304;&#xA;camstarty = 360;&#xA;transitionx = 316;&#xA;transitiony = 176;&#xA;" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oGotoRoom" x="0" y="176" name="inst_145423" locked="0" code="&#xA;targetroom = rm_a7b01;&#xA;targetx = 304;&#xA;targety = 176;&#xA;height = 64;&#xA;direction = 180;&#xA;camstartx = 304;&#xA;camstarty = 360;&#xA;transitionx = 316;&#xA;transitiony = 176;&#xA;" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="oBackground" x="0" y="0" name="inst_145424" locked="0" code="&#xA;load_bgset(70);&#xA;" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles>
