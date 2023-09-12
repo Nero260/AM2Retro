@@ -109,7 +109,7 @@ if (global.save_room == rm_subscreen) {
 }
        // Flooded Temple Saves //
 if (global.save_room == rm_transition) {
-    global.start_room = rm_a5a06; //Stone Temple Save 1.
+    global.start_room = rm_a5c06; //Stone Temple Save 1.
     global.save_x = 160;
     global.save_y = 160;
     global.currentbgm = sndBallBounce;
