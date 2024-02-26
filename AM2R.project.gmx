@@ -3,8 +3,8 @@
   <Configs name="configs">
     <Config>Configs\Default</Config>
   </Configs>
-  <datafiles number="245" name="datafiles">
-    <datafiles number="245" name="lang">
+  <datafiles number="246" name="datafiles">
+    <datafiles number="246" name="lang">
       <datafile>
         <name>czech.ini</name>
         <exists>-1</exists>
@@ -158,7 +158,7 @@
         </ConfigOptions>
         <filename>languages.txt</filename>
       </datafile>
-      <datafiles number="245" name="fonts">
+      <datafiles number="246" name="fonts">
         <datafile>
           <name>04b09.ttf</name>
           <exists>-1</exists>
@@ -331,8 +331,8 @@
       </ConfigOptions>
       <filename>readme.txt</filename>
     </datafile>
-    <datafiles number="245" name="mods">
-      <datafiles number="245" name="titles">
+    <datafiles number="246" name="mods">
+      <datafiles number="246" name="titles">
         <datafile>
           <name>config.ini</name>
           <exists>-1</exists>
@@ -368,8 +368,8 @@
           <filename>titlebackground.png</filename>
         </datafile>
       </datafiles>
-      <datafiles number="245" name="palettes">
-        <datafiles number="245" name="monsters">
+      <datafiles number="246" name="palettes">
+        <datafiles number="246" name="monsters">
           <datafile>
             <name>alpha.png</name>
             <exists>-1</exists>
@@ -540,9 +540,26 @@
             </ConfigOptions>
             <filename>zeta_blur.png</filename>
           </datafile>
+          <datafile>
+            <name>baby_metroid.png</name>
+            <exists>-1</exists>
+            <size>5854</size>
+            <exportAction>2</exportAction>
+            <exportDir></exportDir>
+            <overwrite>0</overwrite>
+            <freeData>-1</freeData>
+            <removeEnd>0</removeEnd>
+            <store>0</store>
+            <ConfigOptions>
+              <Config name="Default">
+                <CopyToMask>9223372036854775807</CopyToMask>
+              </Config>
+            </ConfigOptions>
+            <filename>baby_metroid.png</filename>
+          </datafile>
         </datafiles>
-        <datafiles number="245" name="suits">
-          <datafiles number="245" name="MorphTrailColors">
+        <datafiles number="246" name="suits">
+          <datafiles number="246" name="MorphTrailColors">
             <datafile>
               <name>fusion_gravity.png</name>
               <exists>-1</exists>
@@ -646,7 +663,7 @@
               <filename>varia.png</filename>
             </datafile>
           </datafiles>
-          <datafiles number="245" name="SpaceJumpTrails">
+          <datafiles number="246" name="SpaceJumpTrails">
             <datafile>
               <name>fusion_gravity.png</name>
               <exists>-1</exists>
@@ -750,7 +767,7 @@
               <filename>varia.png</filename>
             </datafile>
           </datafiles>
-          <datafiles number="245" name="SpiderBallGlow">
+          <datafiles number="246" name="SpiderBallGlow">
             <datafile>
               <name>fusion_gravity.png</name>
               <exists>-1</exists>
@@ -854,7 +871,7 @@
               <filename>varia.png</filename>
             </datafile>
           </datafiles>
-          <datafiles number="245" name="Inactive">
+          <datafiles number="246" name="Inactive">
             <datafile>
               <name>fusion_gravity.png</name>
               <exists>-1</exists>
