@@ -327,7 +327,7 @@ global.fontVersion = font_add_sprite_ext(sVersionFont, "V.0123456789R", true, 1)
 
 global.am2r_version = "V1.5.5"; // no longer dynamic, not worth the effort to maintain - mostly because of Android oddities.
 
-global.am2retro_version = "V0.1R"; // this is unused
+global.am2retro_version = "V1.0R"; // this is unused
 
 // Android
 global.gamestarted = 0;
