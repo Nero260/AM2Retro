@@ -63,7 +63,6 @@ This repository, being based on YellowAfterlife's source reconstruction, is inst
 4. Drag the `data.win` file onto the GmxDataSync executable. If everything is correct, this will populate the project with art/audio assets from the binary.
 ![https://cdn.discordapp.com/attachments/509717926807601182/841709919542706176/unknown.png](https://cdn.discordapp.com/attachments/509717926807601182/841709919542706176/unknown.png)
 5. Replace the two blank shader assets with default GM:S shader skeletons or your own copy of each shader, as well as the accompanying script files for the Retro Palette Swapper: `pal_swap_init_system` and `pal_swap_set` and `pal_swap_reset`.
-
-**WARNING:** If the two above scripts are not replaced *before* opening the project file, GM:S 1.4 will replace them with `<undefined>` references in the asset tree at `Scripts/Lojical/Shaders/`. This will produce numerous seemingly unrelated errors until they are deleted and replaced with the appropriately named scripts.
+  **WARNING:** If the three above scripts are not replaced *before* opening the project file, GM:S 1.4 will replace them with `<undefined>` references in the asset tree at `Scripts/Lojical/Shaders/`. This will produce numerous seemingly unrelated errors until they are deleted and replaced with the appropriately named scripts.
 6. Finally, you will need to install `modifiers.ini` as well as the `lang` and `mods` folders as datafiles within the GM:S project. The default ones do not contain the actual assets and are merely references. These can be copied from your `Community Updates (Latest)` folder.
 7. [optional] Copy music files (.ogg) from game directory into "audio" directory inside the "sound" directory of the project (the game will still work without music, though).
