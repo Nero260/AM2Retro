@@ -3,6 +3,7 @@
 A reinvented version of AM2R with content from the past removed in the final game.
 
 ***Example: unused leftover level design, old and unused sprites, graphics from early development of the game, old versions of the music, and more.***
+
 **If you are looking for AM2R Community Updates then [follow the link here](https://github.com/AM2R-Community-Developers/AM2R-Community-Updates).**
 
 # Basically, the original readme from AM2R Community Updates.
