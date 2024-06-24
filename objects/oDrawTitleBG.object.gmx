@@ -32,7 +32,7 @@ versionoffsety = -6;
 
 if (os_type == os_macosx)
 versionoffsety = 1;
-am2retroversion = "v0.1R";
+am2retroversion = "v1.0R";
 </string>
           </argument>
         </arguments>
